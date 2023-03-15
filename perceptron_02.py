@@ -1,6 +1,8 @@
 import numpy as np
 from random import random
 
+# This is the Class based Python version of Valerie Velardo's code for multi-layer perceptron
+
 
 class MLP(object):
     """A Multilayer Perceptron class.
